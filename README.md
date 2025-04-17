@@ -35,3 +35,6 @@ and average price in the clock face.
 
 MIT
 # MMM-ElPrisAnalogClock
+
+**** If you want  ****
+buymeacoffee.com/mikaelmoran 

@@ -1,5 +1,6 @@
 # MMM-ElPrisAnalogClock
 
+![Skärmavbild 2025-04-17 kl  20 02 12](https://github.com/user-attachments/assets/08481622-a259-4479-9a59-d386f1653e78)
 
 
 

@@ -1,0 +1,42 @@
+/* MMM-ElPrisAnalogClock.css */
+
+.elpris-container {
+  margin: 0 auto;
+  position: relative;
+}
+
+.gradient-ring {
+  /* Storlek och padding sätts i JS */
+}
+
+.clock-face {
+  box-sizing: border-box;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+}
+
+.clock-number {
+  position: absolute;
+  font-size: 14px;
+  font-weight: bold;
+  color: #000;
+}
+
+.hour-marker {
+  box-shadow: 0 0 4px rgba(0,0,0,0.5);
+}
+
+@keyframes blink {
+  0%,100% { opacity: 1; }
+  50%     { opacity: 0.2; }
+}
+
+.price-text {
+  position: static !important;
+  transform: none   !important;
+  text-align: center;
+  font-size: 14px;
+  color: #000;
+  line-height: 1.2;
+}

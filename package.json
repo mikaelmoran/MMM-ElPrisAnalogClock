@@ -1,0 +1,8 @@
+{
+  "name": "MMM-ElPrisAnalogClock",
+  "version": "1.0.0",
+  "description": "Analog clock MagicMirror module with price color ring from ElprisetJustNu",
+  "main": "MMM-ElPrisAnalogClock.js",
+  "author": "",
+  "license": "MIT"
+}
